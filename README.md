@@ -1,4 +1,4 @@
-# Node-mongo-starter-kit
+# Node-mongo-starter
 Node JS boiler plate using express JS.
 
 ### Prerequisites
